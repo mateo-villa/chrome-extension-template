@@ -1,7 +1,7 @@
 {
-  "name": "memory-usage-chrome-extension",
+  "name": "extension-template",
   "version": "1.0.0",
-  "description": "Chrome extension to display memory usage",
+  "description": "Template containing everything needed for browser extension",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
