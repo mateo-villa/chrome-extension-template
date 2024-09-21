@@ -1,1 +1,3 @@
-console.log("Hello world!");
+chrome.system.memory.getInfo((info) => {
+  console.log(info);
+});
